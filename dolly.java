@@ -1,7 +1,10 @@
 class dolly{
 
 
-    int x =10 ; 
     
+    double variable=12.04d;
+
+    
+
 
 }
